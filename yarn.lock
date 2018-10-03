@@ -947,9 +947,9 @@
   dependencies:
     "@types/babel-types" "*"
 
-"@types/codemirror@^0.0.56":
-  version "0.0.56"
-  resolved "https://registry.yarnpkg.com/@types/codemirror/-/codemirror-0.0.56.tgz#1fcf68df0d0a49791d843dadda7d94891ac88669"
+"@types/codemirror@^0.0.62":
+  version "0.0.62"
+  resolved "https://registry.yarnpkg.com/@types/codemirror/-/codemirror-0.0.62.tgz#dc444e568ee746c1b8b6110c605bbeac3cf16843"
 
 "@types/firebase@^3.2.1":
   version "3.2.1"
